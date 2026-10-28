@@ -5,6 +5,6 @@ Autors:**Anna Uma Kalve**
 python sveiciens.py
 
 ## Ergonomika
--Regulāri jāatputina acis
--Jāsēž taisni
--Jāpieceļas un jāizkustas ik pēc stundas
+- Regulāri jāatputina acis
+- Jāsēž taisni
+- Jāpieceļas un jāizkustas ik pēc stundas
