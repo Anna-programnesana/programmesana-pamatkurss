@@ -1,2 +1,3 @@
-print ( Anna Uma Kalve )
-print ( programmesana-pamatkurss )
+print("Anna Uma Klave")
+print("Programešanas pamatkurss")
+
