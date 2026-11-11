@@ -1,3 +1,4 @@
 *.png
 __pycache__/
 Pievieno .gitignore
+piezimes.txt
